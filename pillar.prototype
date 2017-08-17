@@ -16,6 +16,6 @@
 <head>
 </head>
 <body>
-<img src="login.png">
+<img src="login.png" style="width:320; height:480px;">
 </body>
 </html>
