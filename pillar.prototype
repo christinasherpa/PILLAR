@@ -17,6 +17,10 @@
 <img src="rings.png" style="width:210px; height:420px;"><br><br>
 <img src="explore.png" style="width:210px; height:420px;"><br><br>
 <img src="profile.png" style="width:210px; height:420px;"><br><br>
+<img {
+      float: left;
+      margin: 0 0 10px 10px
+}
 
 </body>
 </html>
