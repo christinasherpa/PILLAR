@@ -15,7 +15,12 @@
   
 <head>
 </head>
+<br><br>
 <body>
-<img src="login.png" style="width:210px; height:420px;">
+<img src="login.png" style="width:210px; height:420px;"><br>
+<img src="rings.png" style="width:210px; height:420px;"><br>
+<img src="explore.png" style="width:210px; height:420px;"><br>
+<img src="profile.png" style="width:210px; height:420px;"><br>
+
 </body>
 </html>
