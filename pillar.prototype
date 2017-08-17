@@ -17,7 +17,7 @@
 </head>
 <br><br>
 <body>
-<img src="login.png" style="width:210px; height:420px;"><br><br>
+<img src="login.png" style="width:210px; height:420px;"> <p>hello</p><br><br>
 <img src="rings.png" style="width:210px; height:420px;"><br><br>
 <img src="explore.png" style="width:210px; height:420px;"><br><br>
 <img src="profile.png" style="width:210px; height:420px;"><br><br>
