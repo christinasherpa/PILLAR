@@ -17,6 +17,15 @@
 </head>
 <br><br>
 <body>
+<div class="site-branding">
+  <div class="site-branding-logo">
+    <img src="login.png" alt="login prototype" />
+  </div>
+</div>
+<div class="site-branding-text">
+  <h1 id="site-title">Site Title</h1>
+  <h2 id="site-tagline">Site Tagline</h2>
+</div>
 <img src="login.png" style="width:210px; height:420px;"><div></div> <p>helo</p><br><br>
 <img src="rings.png" style="width:210px; height:420px;"><br><br>
 <img src="explore.png" style="width:210px; height:420px;"><br><br>
