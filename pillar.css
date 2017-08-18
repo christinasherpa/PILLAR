@@ -26,3 +26,19 @@
 }
 
 * {box-sizing:border-box}
+<body>
+.col{
+  float: left;
+}
+.col + .col{
+  float: left;
+  margin-left: 20px;
+}
+
+/* or */
+
+.col:not(:nth-child(1)){
+  float:left;
+  margin-left: 20px;
+}
+</body>
