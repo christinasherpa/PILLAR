@@ -32,7 +32,7 @@
   float: left;
 }
 .col + .col{
-  float: left;
+  float: right;
   margin-left: 50px;
 }
 
