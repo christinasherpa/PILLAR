@@ -26,13 +26,14 @@
 }
 
 * {box-sizing:border-box}
+
 <body>
 .col{
   float: left;
 }
 .col + .col{
   float: left;
-  margin-left: 20px;
+  margin-left: 50px;
 }
 
 /* or */
